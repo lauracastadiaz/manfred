@@ -11,8 +11,8 @@
       "title": "👩‍💻 Web Developer | 🌐 Conocimientos FullStack | 📊 BBDD",
       "description": "💻 I’m currently looking for a job\n\n🌐 I have experience in remote work and am highly self-taught, having previously held other remote positions.\n\n🚀 I successfully completed a solo project using the Laravel framework, working extensively with databases and managing the entire development process.\n\n🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, all in a remote work environment.\n\n🔭 I studied DAW at Medac\n\n🌱 I’m currently learning Frameworks, programming languages and databases\n\n👨‍💻 All of my projects are available at https://github.com/lauracastadiaz\n\n💬 Ask me about any fact you want to know\n\n📫 How to reach me lauracastadiaz@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/82b5a3e1-5636-4325-bc1e-020efd3f065c_linkedin-photo-28373.linkedin-photo-28373",
-        "alt": "24/08/06/82b5a3e1-5636-4325-bc1e-020efd3f065c_linkedin-photo-28373.linkedin-photo-28373"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/474358d4-727e-4695-bc22-51730ff67f96_linkedin-photo-28373.linkedin-photo-28373",
+        "alt": "24/08/06/474358d4-727e-4695-bc22-51730ff67f96_linkedin-photo-28373.linkedin-photo-28373"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -24,6 +24,69 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/lauracastadiaz"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Xpanse Studio"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de aplicaciones",
+            "startDate": "2023-06-01",
+            "finishDate": "2024-05-31",
+            "challenges": [
+              {
+                "description": "- Desarrollo de una aplicación web de sistema de citas médicas desde cero, utilizando el framework Laravel.\n- Gestión de bases de datos en MariaDB y MySQL."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Konecta",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/67fff072-12ce-477a-afe8-97d97bfcb2ea_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/67fff072-12ce-477a-afe8-97d97bfcb2ea_linkedin-photo-28373.linkedin-photo-28373"
+          }
+        },
+        "roles": [
+          {
+            "name": "Operador telefónico",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "- Habilidades en atención al cliente\n- Resolución de problemas y dudas tanto en inglés como en español.\n- Amplio dominio de operaciones en pc y diversas aplicaciones de la empresa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cámara de Comercio de Toledo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/78667437-600e-4496-b10f-84002479f563_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/78667437-600e-4496-b10f-84002479f563_linkedin-photo-28373.linkedin-photo-28373"
+          }
+        },
+        "roles": [
+          {
+            "name": "Diseño y fotografía",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "Experiencia en proyecto Unity 3D:\n- Recreación de la Plaza del Pan de Talavera.\n- Desarrollo de una tienda online integrada.\n- Retoques fotográficos en Adobe Photoshop.\n- Fotografías profesionales en estudio."
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -123,54 +186,27 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
-        "name": "Desarrollo de aplicaciones web ",
-        "startDate": "2022-09-01",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior, Desarrollo de aplicaciones web",
+        "startDate": "2022-10-01",
         "institution": {
-          "name": "ITEP"
-        },
-        "linkedCompetences": [
-          {
-            "name": "Apache",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "Eclipse",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "Java",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Netbeans",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Studio Code",
-            "type": "technology"
-          },
-          {
-            "name": "XML",
-            "type": "technology"
+          "name": "MEDAC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/1f5ddae3-6029-43bd-8a97-312dbb1310db_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/1f5ddae3-6029-43bd-8a97-312dbb1310db_linkedin-photo-28373.linkedin-photo-28373"
           }
-        ]
+        },
+        "finishDate": "2024-05-31"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Formación Profesional de Grado Superior, Artes plásticas, general",
+        "startDate": "2018-01-01",
+        "institution": {
+          "name": "Escuela de Arte de Talavera"
+        },
+        "finishDate": "2020-01-01"
       }
     ]
   },
