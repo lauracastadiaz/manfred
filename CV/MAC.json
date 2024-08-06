@@ -7,16 +7,25 @@
   "aboutMe": {
     "profile": {
       "name": "Laura",
-      "surnames": "Castaño Diaz",
-      "title": "Desarrolladora de aplicaciones web",
-      "description": "Soy estudiante del grado superior Desarrollo de Aplicaciones Web con un extraordinario entusiasmo por la creación de software y una gran pasión por el aprendizaje. Estoy interesada en explorar nuevas tecnologías y técnicas de programación, construyendo soluciones diseñadas para mejorar la experiencia del usuario, tanto estéticamente como de forma funcional. Lo que más me apasiona es el mundo del front-end y estoy buscando un trabajo que se adapte a mis conocimientos para poder seguir pagándome mis estudios y a la vez mejorar y seguir aprendiendo en el ámbito que estudio. ",
+      "surnames": "Castaño",
+      "title": "👩‍💻 Web Developer | 🌐 Conocimientos FullStack | 📊 BBDD",
+      "description": "💻 I’m currently looking for a job\n\n🌐 I have experience in remote work and am highly self-taught, having previously held other remote positions.\n\n🚀 I successfully completed a solo project using the Laravel framework, working extensively with databases and managing the entire development process.\n\n🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, all in a remote work environment.\n\n🔭 I studied DAW at Medac\n\n🌱 I’m currently learning Frameworks, programming languages and databases\n\n👨‍💻 All of my projects are available at https://github.com/lauracastadiaz\n\n💬 Ask me about any fact you want to know\n\n📫 How to reach me lauracastadiaz@gmail.com",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/82b5a3e1-5636-4325-bc1e-020efd3f065c_linkedin-photo-28373.linkedin-photo-28373",
+        "alt": "24/08/06/82b5a3e1-5636-4325-bc1e-020efd3f065c_linkedin-photo-28373.linkedin-photo-28373"
+      },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
         "country": "España",
-        "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "region": "Community of Madrid"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/lauracastadiaz"
+      }
+    ]
   },
   "knowledge": {
     "languages": [
@@ -167,6 +176,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/lauracastadiaz",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "lauracastadiaz@gmail.com"
       ]
