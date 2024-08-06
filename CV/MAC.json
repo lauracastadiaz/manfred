@@ -11,8 +11,8 @@
       "title": "👩‍💻 Web Developer | 🌐 Conocimientos FullStack | 📊 BBDD",
       "description": "💻 I’m currently looking for a job\n\n🌐 I have experience in remote work and am highly self-taught, having previously held other remote positions.\n\n🚀 I successfully completed a solo project using the Laravel framework, working extensively with databases and managing the entire development process.\n\n🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, all in a remote work environment.\n\n🔭 I studied DAW at Medac\n\n🌱 I’m currently learning Frameworks, programming languages and databases\n\n👨‍💻 All of my projects are available at https://github.com/lauracastadiaz\n\n💬 Ask me about any fact you want to know\n\n📫 How to reach me lauracastadiaz@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/8c92eb6a-5d74-478b-ac86-004e2e4ee340_linkedin-photo-28373.linkedin-photo-28373",
-        "alt": "24/08/06/8c92eb6a-5d74-478b-ac86-004e2e4ee340_linkedin-photo-28373.linkedin-photo-28373"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/8d3e3fe8-903f-4da0-9ea9-c9ff7ce9b15b_linkedin-photo-28373.linkedin-photo-28373",
+        "alt": "24/08/06/8d3e3fe8-903f-4da0-9ea9-c9ff7ce9b15b_linkedin-photo-28373.linkedin-photo-28373"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -50,8 +50,8 @@
         "organization": {
           "name": "Konecta",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/7871d0b1-1e7f-456b-951d-56a227b71e08_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/7871d0b1-1e7f-456b-951d-56a227b71e08_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/76b55421-b056-4358-bd25-0e57c843df75_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/76b55421-b056-4358-bd25-0e57c843df75_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "roles": [
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Cámara de Comercio de Toledo",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/ae2d4947-5df0-49d6-95b1-896126e10d1e_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/ae2d4947-5df0-49d6-95b1-896126e10d1e_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/09507908-bdc1-4c87-aad7-9a3d72676d2f_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/09507908-bdc1-4c87-aad7-9a3d72676d2f_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "roles": [
@@ -240,8 +240,8 @@
         "institution": {
           "name": "MEDAC",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/b0cb84d5-11dc-4b5f-9339-6839a00d24c8_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/b0cb84d5-11dc-4b5f-9339-6839a00d24c8_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/1456541f-1cc2-43c6-a6bd-2d5ae71afb81_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/1456541f-1cc2-43c6-a6bd-2d5ae71afb81_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "finishDate": "2024-05-31"
@@ -350,11 +350,15 @@
         "type": "technology"
       },
       {
-        "name": "Java",
+        "name": "JavaScript",
         "type": "technology"
       },
       {
-        "name": "JavaScript",
+        "name": "Laravel",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
         "type": "technology"
       }
     ],
