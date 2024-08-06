@@ -11,8 +11,8 @@
       "title": "👩‍💻 Web Developer | 🌐 Conocimientos FullStack | 📊 BBDD",
       "description": "💻 I’m currently looking for a job\n\n🌐 I have experience in remote work and am highly self-taught, having previously held other remote positions.\n\n🚀 I successfully completed a solo project using the Laravel framework, working extensively with databases and managing the entire development process.\n\n🏢 I completed my internship at Xpanse Studio, where I gained hands-on experience in real-world projects, all in a remote work environment.\n\n🔭 I studied DAW at Medac\n\n🌱 I’m currently learning Frameworks, programming languages and databases\n\n👨‍💻 All of my projects are available at https://github.com/lauracastadiaz\n\n💬 Ask me about any fact you want to know\n\n📫 How to reach me lauracastadiaz@gmail.com",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/474358d4-727e-4695-bc22-51730ff67f96_linkedin-photo-28373.linkedin-photo-28373",
-        "alt": "24/08/06/474358d4-727e-4695-bc22-51730ff67f96_linkedin-photo-28373.linkedin-photo-28373"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/7aca579f-53d6-4991-89b4-db3e1ab46ff6_linkedin-photo-28373.linkedin-photo-28373",
+        "alt": "24/08/06/7aca579f-53d6-4991-89b4-db3e1ab46ff6_linkedin-photo-28373.linkedin-photo-28373"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJd_LANWMvQg0RGYggE7EPcZM)",
@@ -50,8 +50,8 @@
         "organization": {
           "name": "Konecta",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/67fff072-12ce-477a-afe8-97d97bfcb2ea_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/67fff072-12ce-477a-afe8-97d97bfcb2ea_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/062d1bb3-05a3-4532-8c1d-f915c54b9894_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/062d1bb3-05a3-4532-8c1d-f915c54b9894_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "roles": [
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Cámara de Comercio de Toledo",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/78667437-600e-4496-b10f-84002479f563_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/78667437-600e-4496-b10f-84002479f563_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/8b22c90a-245e-4343-8041-68195494225e_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/8b22c90a-245e-4343-8041-68195494225e_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "roles": [
@@ -106,7 +106,25 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Angular2+",
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -118,25 +136,31 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Express",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Eclipse",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
           "type": "technology"
         }
       },
@@ -154,13 +178,7 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
+          "name": "Laravel",
           "type": "technology"
         }
       },
@@ -172,13 +190,43 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "XML",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -192,8 +240,8 @@
         "institution": {
           "name": "MEDAC",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/1f5ddae3-6029-43bd-8a97-312dbb1310db_linkedin-photo-28373.linkedin-photo-28373",
-            "alt": "24/08/06/1f5ddae3-6029-43bd-8a97-312dbb1310db_linkedin-photo-28373.linkedin-photo-28373"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/06/77e15a5e-3a05-45f0-a536-9cfec15f1b4f_linkedin-photo-28373.linkedin-photo-28373",
+            "alt": "24/08/06/77e15a5e-3a05-45f0-a536-9cfec15f1b4f_linkedin-photo-28373.linkedin-photo-28373"
           }
         },
         "finishDate": "2024-05-31"
@@ -307,10 +355,6 @@
       },
       {
         "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "XML",
         "type": "technology"
       }
     ],
